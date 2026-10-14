@@ -1,0 +1,11 @@
+flowchart TD
+    A[Agent / Caller] --> B[Tool Contracts and Registry]
+    B --> C[Pydantic Input Validation]
+    C --> D[Repositories]
+    D --> E[SQLite Database]
+    E --> F[Orders Table]
+    E --> G[Refunds Table]
+    D --> H[Approval Gate]
+    B --> I[Structured Observability]
+    I --> J[JSON Traces and Metrics]
+    

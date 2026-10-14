@@ -1,0 +1,15 @@
+{
+  "average_duration_ms": 0.127,
+  "failure_or_rejection_count": 2,
+  "max_duration_ms": 0.362,
+  "note": "Durations are local demonstration measurements, not production benchmarks.",
+  "pending_approval_count": 1,
+  "status_counts": {
+    "denied": 1,
+    "not_found": 1,
+    "ok": 2,
+    "pending_approval": 1
+  },
+  "success_count": 2,
+  "trace_count": 5
+}

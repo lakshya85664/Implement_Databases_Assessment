@@ -1,0 +1,12 @@
+{
+  "arguments": {
+    "approval_id": "APPROVAL-DEMO-002",
+    "refund_id": "REF-DAF4808E2A2F"
+  },
+  "duration_ms": 0.053,
+  "error_type": "RefundApprovalError",
+  "request_id": "REQ-005",
+  "result": null,
+  "status": "denied",
+  "tool_name": "refund_approval"
+}

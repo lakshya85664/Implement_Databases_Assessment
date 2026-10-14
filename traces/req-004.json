@@ -1,0 +1,11 @@
+{
+  "arguments": {
+    "order_id": "ORD-MISSING"
+  },
+  "duration_ms": 0.02,
+  "error_type": "OrderNotFoundError",
+  "request_id": "REQ-004",
+  "result": null,
+  "status": "not_found",
+  "tool_name": "order_lookup"
+}

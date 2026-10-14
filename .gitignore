@@ -1,0 +1,45 @@
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Pytest and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type checking and linting caches
+.mypy_cache/
+.ruff_cache/
+.pyright/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local databases and database journals
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.sqlite-journal

@@ -1,0 +1,15 @@
+{
+  "arguments": {
+    "order_id": "ORD-1001"
+  },
+  "duration_ms": 0.032,
+  "error_type": null,
+  "request_id": "REQ-001",
+  "result": {
+    "order_id": "ORD-1001",
+    "status": "shipped",
+    "total_amount": 1250.0
+  },
+  "status": "ok",
+  "tool_name": "order_lookup"
+}

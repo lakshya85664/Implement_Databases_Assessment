@@ -1,0 +1,19 @@
+{
+  "arguments": {
+    "amount": 100.0,
+    "order_id": "ORD-1001",
+    "reason": "Item arrived damaged"
+  },
+  "duration_ms": 0.362,
+  "error_type": null,
+  "request_id": "REQ-002",
+  "result": {
+    "amount": 100.0,
+    "approval_required": true,
+    "order_id": "ORD-1001",
+    "refund_id": "REF-DAF4808E2A2F",
+    "status": "pending_approval"
+  },
+  "status": "pending_approval",
+  "tool_name": "refund_request"
+}
